@@ -1,5 +1,4 @@
-# prg #3
+# Online kurz programování
 
-termín lekce: 8. 3. 2022
+SPŠZem a GG 2023
 
-skripty ke 3. lekci
