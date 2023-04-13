@@ -2,6 +2,6 @@
 
 termín: 13. 4. 2023
 
-téma: cyklus while, hledání nejbližšího bodu
+téma: cyklus WHILE, zápis a čtení souborů, tvorba programu pro registraci uživatelů - úvod
 
 záznam z lekce [[zde]()]
