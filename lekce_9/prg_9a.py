@@ -23,8 +23,8 @@ OsobaVyska['Cestmir'] = 183
 OsobaVyska['Klotylda'] = 211
 
 # iterace pres slovnik
-for osoba in OsobaVyska:
-    print('Vyska cloveka {} je {} cm'.format(osoba, OsobaVyska[osoba]))
+for osoba, vyska in OsobaVyska.items():
+    print('Vyska cloveka {} je {} cm'.format(osoba, vyska))
 
 
 # do slovniku je mozno pridat slovnik!!!
