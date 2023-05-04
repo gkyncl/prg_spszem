@@ -13,4 +13,7 @@ SPŠZem a GG 2023
 | 22. 3.  | JŠ        | doplnění k metodám nad listem (remove(), len(), append(), insert(), extend(), index(), count(), max(), min(), sum()), for cyklus pomocí funkce range(), <br /> **úkol:** minimální ohraničující obdélník skupiny bodů, jeho obsah, obvod, úhlopříčka a obsah přes LH vzorce |
 | 29. 3.  | JŠ        | opakování cyklů, tvorba funkcí, vstupní parametry, výstupní parametry - průměr, absolutní hodnota, převody úhlových jednotek <br /> **úkol:** pokračování minulého úkolu |
 | 5. 4.   | GK        | opakování cyklu FOR - výpis dělitelů, cyklus WHILE - základní syntaxe, příklad - hadání čísla |
-
+| 12. 4.  | GK        |
+| 19. 4.  | GK        |
+| 26. 4.  | GK        |
+| 3. 5.   | JŠ        | datová struktura slovník, načtení souřadnic a měření ze zápisníku ve formátu csv, funkce pro výpočet polární metody |
